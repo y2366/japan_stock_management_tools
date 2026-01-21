@@ -41,7 +41,8 @@
   1. 恢复 `TrendScreener.java` 内的相关注释代码  
   2. 申请 ChatGPT 开发者账号  
   3. 在启动环境中配置 ChatGPT API Key
-
+- 配置示例：
+OPENAI_API_KEY=你的openAPI key
 ---
 
 ## 使用方法
@@ -116,6 +117,7 @@ JPX（日本取引所）が公開している銘柄一覧を対象に、**Yahoo!
 - `TrendScreener.java` のコメントアウトを戻す  
 - OpenAI API キーを取得し、実行環境に設定する  
 - **APIキーはリポジトリにコミットしないこと**
+- 設定例：OPENAI_API_KEY=あなたのOpenAI APIキー
 
 ---
 
